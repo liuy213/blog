@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liuy213/blog.git",
+  "author": "liuy <18500976436@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
